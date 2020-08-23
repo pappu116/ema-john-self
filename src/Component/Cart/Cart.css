@@ -1,0 +1,16 @@
+.cart{
+    text-align: center;
+    margin-left: 80px;
+}
+.total-price{
+    color: #B82704;
+    font-weight: 700;
+}
+.reviewbtn{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
