@@ -24,7 +24,6 @@
 - firebase
 - react-with-firebase-auth
 - react-router-dom
-- react-owl-carousel
 - react-hook-form
 - react-dom
 - react-bootstrap
